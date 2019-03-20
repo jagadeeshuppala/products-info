@@ -3,9 +3,10 @@
 suggestions related API's exposed
 
 ## Getting Started
-This is a maven project, so you can start running the project using
+This is a maven project, so you can start running the project using the below command. you can override the server port with your choice
 ```
-mvn clean install spring-boot:run
+mvn clean install spring-boot:run -Dserver.port=8081
+
 ```
 
 ### swagger ui
