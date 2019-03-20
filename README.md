@@ -1,4 +1,4 @@
-# Get the product list for the given categoryIs
+# Get the product list for the given categoryId
 
 suggestions related API's exposed
 
