@@ -1,4 +1,4 @@
-# Get the product list from the given Location API
+# Get the product list for the given categoryIs
 
 suggestions related API's exposed
 
